@@ -65,6 +65,7 @@ Divides today's volume by the 3-day average. Anything above 100% means volume is
                                                                
                                                                    
  6. Dashboard & Results
+    
 I built a clean, interactive dashboard to show the insights:
 
 The Matrix Table: Shows the dates on the side and the coins on top. It only displays the Volume_Spike_Alert percentage, making it very easy to read.
